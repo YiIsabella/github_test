@@ -1,4 +1,4 @@
-/*hi
+/*
  * Dash key
  * Using ESP8266
  * By Henry Chan Feb2022
